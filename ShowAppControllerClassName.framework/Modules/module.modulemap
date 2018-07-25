@@ -1,6 +1,0 @@
-framework module ShowAppControllerClassName {
-  umbrella header "ShowAppControllerClassName.h"
-
-  export *
-  module * { export * }
-}
